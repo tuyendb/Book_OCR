@@ -1,0 +1,5 @@
+pdf_path = './book/lichsu11.pdf'
+paddle_model_path = './models/PaddleOCR_det/det_db_inference'
+vietocr_weight_path = './models/vietOCR/weights/transformerocr.pth'
+vietocr_config_path = './models/vietOCR/config/vgg-transformer.yml'
+vietocr_base_cfg_path = './models/vietOCR/config/base.yml'
